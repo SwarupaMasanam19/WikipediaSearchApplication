@@ -1,8 +1,8 @@
-**Wikipedia Search Application
+*Wikipedia Search Application*
 
 A simple web application that allows users to search Wikipedia and view results in real time.
 
-**How to Use
+*How to Use*
 
 1. Clone the Repository 
    Clone the project to your local system:  
@@ -24,17 +24,17 @@ A simple web application that allows users to search Wikipedia and view results 
    - Press **Enter** to fetch and display search results.  
    - Each result includes a title, a link to the Wikipedia page, and a brief description.
 
-**Features
+*Features*
 
 - Real-Time Search: Fetches results dynamically using the Wikipedia API.  
 - User-Friendly Interface: Clean and simple layout with Bootstrap for styling.  
 - Responsive Design: Works seamlessly on various screen sizes.
 
-**Technologies Used
+*Technologies Used*
 
 - HTML5, CSS3  
 - Bootstrap 4  
 - JavaScript (Fetch API)  
 
-**Note
+*Note*
 - Ensure you have an active internet connection to fetch data from the Wikipedia API.
