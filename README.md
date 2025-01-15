@@ -24,9 +24,9 @@ Clone the repository or download the project files.
 Ensure you have an active internet connection (to load external dependencies).
 Open the index.html file in a browser.
 Type a keyword in the search bar and press Enter to see results.
-API Used
 
-Wikipedia Search API: https://apis.ccbp.in/wiki-search
+API Used Wikipedia Search API: https://apis.ccbp.in/wiki-search
+
 Key Files
 index.html: Main HTML structure.
 index.css: Custom styles for the app.
