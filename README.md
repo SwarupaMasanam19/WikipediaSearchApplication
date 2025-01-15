@@ -1,33 +1,40 @@
-Overview
-The Wikipedia Search App is a web application that allows users to search for Wikipedia articles by typing keywords. The results are fetched using a public API and displayed in a clean, user-friendly format.
+**Wikipedia Search Application
 
-Features
-Dynamic Search: Fetch Wikipedia articles by typing a keyword and pressing Enter.
-Responsive Design: Optimized for various screen sizes using Bootstrap.
-Interactive UI: Displays results with a spinner animation while fetching data.
+A simple web application that allows users to search Wikipedia and view results in real time.
 
-Project Structure
-HTML: Defines the basic structure and integrates external styles and scripts.
-File: index.html
-CSS: Provides styling for the app, ensuring a clean and professional layout.
-File: index.css
-JavaScript: Handles API requests, dynamically creates result elements, and updates the UI.
-File: index.js
+**How to Use
 
-Dependencies
-Bootstrap: For responsive design and UI components.
-Font Awesome: For icons.
-Fetch API: To make HTTP requests to the Wikipedia Search API.
+1. Clone the Repository 
+   Clone the project to your local system:  
 
-How to Run
-Clone the repository or download the project files.
-Ensure you have an active internet connection (to load external dependencies).
-Open the index.html file in a browser.
-Type a keyword in the search bar and press Enter to see results.
+   git clone https://github.com/SwarupaMasanam19/WikipediaSearchApplication.git
+  
 
-API Used Wikipedia Search API: https://apis.ccbp.in/wiki-search
+2. Navigate to the Project Directory  
+   Open a terminal and move into the project folder:  
 
-Key Files
-index.html: Main HTML structure.
-index.css: Custom styles for the app.
-index.js: JavaScript logic for fetching and displaying search results.
+   cd WikipediaSearchApplication
+  
+
+3. Open in a Browser
+   Open the `index.html` file in any modern web browser to launch the application.
+
+4. Search Wikipedia  
+   - Type a keyword in the search bar.  
+   - Press **Enter** to fetch and display search results.  
+   - Each result includes a title, a link to the Wikipedia page, and a brief description.
+
+**Features
+
+- Real-Time Search: Fetches results dynamically using the Wikipedia API.  
+- User-Friendly Interface: Clean and simple layout with Bootstrap for styling.  
+- Responsive Design: Works seamlessly on various screen sizes.
+
+**Technologies Used
+
+- HTML5, CSS3  
+- Bootstrap 4  
+- JavaScript (Fetch API)  
+
+**Note
+- Ensure you have an active internet connection to fetch data from the Wikipedia API.
